@@ -1,2 +1,5 @@
-# impulse_response_convolver
-JUCE/C++/pytorch/numpy implementation of IR loader
+# torch IR loader
+
+JUCE/pytorch/numpy implementation of FIR
+
+
